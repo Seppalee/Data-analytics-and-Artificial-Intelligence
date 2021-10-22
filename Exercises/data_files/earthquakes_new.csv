@@ -1,5 +1,5 @@
 ,Date,Time,Latitude,Longitude,Type,Depth,Depth Error,Depth Seismic Stations,Magnitude,Magnitude Type,Grade,Magnitude Error,Root Mean Square,ID,Source,Location Source,Magnitude Source,Status
-3,01/01/1996,08:05:11,0.729,119.931,Earthquake,24.0,,,7.9,MW,158.0,,1.2,USP00079ZV,US,US,HRV,Reviewed
-4,02/17/1996,05:59:31,-0.891,136.952,Earthquake,33.0,,,8.2,MW,208.154,,1.3,USP0007D1W,US,US,HRV,Reviewed
-5,06/10/1996,04:03:35,51.564,-177.632,Earthquake,33.0,,,7.9,MWC,289.667,,0.9,USP0007JCU,US,US,HRV,Reviewed
-6,06/17/1996,11:22:19,-7.137,122.589,Earthquake,587.3,,,7.9,MWC,3866.392,,1.2,USP0007JW8,US,US,HRV,Reviewed
+0,01/01/1996,08:05:11,0.729,119.931,Earthquake,24.0,,,7.9,MW,158.0,,1.2,USP00079ZV,US,US,HRV,Reviewed
+1,02/17/1996,05:59:31,-0.891,136.952,Earthquake,33.0,,,8.2,MW,208.154,,1.3,USP0007D1W,US,US,HRV,Reviewed
+2,06/10/1996,04:03:35,51.564,-177.632,Earthquake,33.0,,,7.9,MWC,289.667,,0.9,USP0007JCU,US,US,HRV,Reviewed
+3,06/17/1996,11:22:19,-7.137,122.589,Earthquake,587.3,,,7.9,MWC,3866.392,,1.2,USP0007JW8,US,US,HRV,Reviewed
